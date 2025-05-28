@@ -1,0 +1,339 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\EXCALIBUR\\source\\repos\\OBSMini\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{943B8E1C-3335-4090-8D49-8BFFF8363010}|OBSMini\\OBSMini.csproj|c:\\users\\excalibur\\source\\repos\\obsmini\\obsmini\\formogretmen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{943B8E1C-3335-4090-8D49-8BFFF8363010}|OBSMini\\OBSMini.csproj|solutionrelative:obsmini\\formogretmen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{943B8E1C-3335-4090-8D49-8BFFF8363010}|OBSMini\\OBSMini.csproj|C:\\Users\\EXCALIBUR\\source\\repos\\OBSMini\\OBSMini\\FormOgretmen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{943B8E1C-3335-4090-8D49-8BFFF8363010}|OBSMini\\OBSMini.csproj|solutionrelative:OBSMini\\FormOgretmen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{943B8E1C-3335-4090-8D49-8BFFF8363010}|OBSMini\\OBSMini.csproj|C:\\Users\\EXCALIBUR\\source\\repos\\OBSMini\\OBSMini\\VeritabaniIslemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{943B8E1C-3335-4090-8D49-8BFFF8363010}|OBSMini\\OBSMini.csproj|solutionrelative:OBSMini\\VeritabaniIslemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{943B8E1C-3335-4090-8D49-8BFFF8363010}|OBSMini\\OBSMini.csproj|C:\\Users\\EXCALIBUR\\source\\repos\\OBSMini\\obsmini\\formdevamogrt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{943B8E1C-3335-4090-8D49-8BFFF8363010}|OBSMini\\OBSMini.csproj|solutionrelative:obsmini\\formdevamogrt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{943B8E1C-3335-4090-8D49-8BFFF8363010}|OBSMini\\OBSMini.csproj|C:\\Users\\EXCALIBUR\\source\\repos\\OBSMini\\obsmini\\formnotlarogrt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{943B8E1C-3335-4090-8D49-8BFFF8363010}|OBSMini\\OBSMini.csproj|solutionrelative:obsmini\\formnotlarogrt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{943B8E1C-3335-4090-8D49-8BFFF8363010}|OBSMini\\OBSMini.csproj|C:\\Users\\EXCALIBUR\\source\\repos\\OBSMini\\obsmini\\formdevamogrt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{943B8E1C-3335-4090-8D49-8BFFF8363010}|OBSMini\\OBSMini.csproj|solutionrelative:obsmini\\formdevamogrt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{943B8E1C-3335-4090-8D49-8BFFF8363010}|OBSMini\\OBSMini.csproj|C:\\Users\\EXCALIBUR\\source\\repos\\OBSMini\\obsmini\\formnotlarogrt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{943B8E1C-3335-4090-8D49-8BFFF8363010}|OBSMini\\OBSMini.csproj|solutionrelative:obsmini\\formnotlarogrt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{943B8E1C-3335-4090-8D49-8BFFF8363010}|OBSMini\\OBSMini.csproj|C:\\Users\\EXCALIBUR\\source\\repos\\OBSMini\\OBSMini\\FormNotlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{943B8E1C-3335-4090-8D49-8BFFF8363010}|OBSMini\\OBSMini.csproj|solutionrelative:OBSMini\\FormNotlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{943B8E1C-3335-4090-8D49-8BFFF8363010}|OBSMini\\OBSMini.csproj|C:\\Users\\EXCALIBUR\\source\\repos\\OBSMini\\obsmini\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{943B8E1C-3335-4090-8D49-8BFFF8363010}|OBSMini\\OBSMini.csproj|solutionrelative:obsmini\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{943B8E1C-3335-4090-8D49-8BFFF8363010}|OBSMini\\OBSMini.csproj|C:\\Users\\EXCALIBUR\\source\\repos\\OBSMini\\obsmini\\formdevamsizlik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{943B8E1C-3335-4090-8D49-8BFFF8363010}|OBSMini\\OBSMini.csproj|solutionrelative:obsmini\\formdevamsizlik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{943B8E1C-3335-4090-8D49-8BFFF8363010}|OBSMini\\OBSMini.csproj|C:\\Users\\EXCALIBUR\\source\\repos\\OBSMini\\OBSMini\\FormOgrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{943B8E1C-3335-4090-8D49-8BFFF8363010}|OBSMini\\OBSMini.csproj|solutionrelative:OBSMini\\FormOgrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{943B8E1C-3335-4090-8D49-8BFFF8363010}|OBSMini\\OBSMini.csproj|C:\\Users\\EXCALIBUR\\source\\repos\\OBSMini\\obsmini\\formdersprogrami.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{943B8E1C-3335-4090-8D49-8BFFF8363010}|OBSMini\\OBSMini.csproj|solutionrelative:obsmini\\formdersprogrami.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{943B8E1C-3335-4090-8D49-8BFFF8363010}|OBSMini\\OBSMini.csproj|C:\\Users\\EXCALIBUR\\source\\repos\\OBSMini\\OBSMini\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{943B8E1C-3335-4090-8D49-8BFFF8363010}|OBSMini\\OBSMini.csproj|solutionrelative:OBSMini\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{943B8E1C-3335-4090-8D49-8BFFF8363010}|OBSMini\\OBSMini.csproj|C:\\Users\\EXCALIBUR\\source\\repos\\OBSMini\\obsmini\\formsifredegistir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{943B8E1C-3335-4090-8D49-8BFFF8363010}|OBSMini\\OBSMini.csproj|solutionrelative:obsmini\\formsifredegistir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{943B8E1C-3335-4090-8D49-8BFFF8363010}|OBSMini\\OBSMini.csproj|C:\\Users\\EXCALIBUR\\source\\repos\\OBSMini\\OBSMini\\FormSifreDegistir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{943B8E1C-3335-4090-8D49-8BFFF8363010}|OBSMini\\OBSMini.csproj|solutionrelative:OBSMini\\FormSifreDegistir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{943B8E1C-3335-4090-8D49-8BFFF8363010}|OBSMini\\OBSMini.csproj|C:\\Users\\EXCALIBUR\\source\\repos\\OBSMini\\obsmini\\formogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{943B8E1C-3335-4090-8D49-8BFFF8363010}|OBSMini\\OBSMini.csproj|solutionrelative:obsmini\\formogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{943B8E1C-3335-4090-8D49-8BFFF8363010}|OBSMini\\OBSMini.csproj|C:\\Users\\EXCALIBUR\\source\\repos\\OBSMini\\obsmini\\formdersprogrami.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{943B8E1C-3335-4090-8D49-8BFFF8363010}|OBSMini\\OBSMini.csproj|solutionrelative:obsmini\\formdersprogrami.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{943B8E1C-3335-4090-8D49-8BFFF8363010}|OBSMini\\OBSMini.csproj|C:\\Users\\EXCALIBUR\\source\\repos\\OBSMini\\OBSMini\\FormDevamsizlik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{943B8E1C-3335-4090-8D49-8BFFF8363010}|OBSMini\\OBSMini.csproj|solutionrelative:OBSMini\\FormDevamsizlik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{943B8E1C-3335-4090-8D49-8BFFF8363010}|OBSMini\\OBSMini.csproj|C:\\Users\\EXCALIBUR\\source\\repos\\OBSMini\\obsmini\\formnotlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{943B8E1C-3335-4090-8D49-8BFFF8363010}|OBSMini\\OBSMini.csproj|solutionrelative:obsmini\\formnotlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\source\\repos\\OBSMini\\OBSMini\\Form1.cs",
+              "RelativeDocumentMoniker": "OBSMini\\Form1.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\source\\repos\\OBSMini\\OBSMini\\Form1.cs [Design]",
+              "RelativeToolTip": "OBSMini\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T21:47:11.126Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\source\\repos\\OBSMini\\OBSMini\\Form1.cs",
+              "RelativeDocumentMoniker": "OBSMini\\Form1.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\source\\repos\\OBSMini\\OBSMini\\Form1.cs",
+              "RelativeToolTip": "OBSMini\\Form1.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAiwEwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T21:47:16.004Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormSifreDegistir.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\source\\repos\\OBSMini\\OBSMini\\FormSifreDegistir.cs",
+              "RelativeDocumentMoniker": "OBSMini\\FormSifreDegistir.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\source\\repos\\OBSMini\\OBSMini\\FormSifreDegistir.cs [Design]",
+              "RelativeToolTip": "OBSMini\\FormSifreDegistir.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T00:29:30.168Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormSifreDegistir.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\source\\repos\\OBSMini\\OBSMini\\FormSifreDegistir.cs",
+              "RelativeDocumentMoniker": "OBSMini\\FormSifreDegistir.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\source\\repos\\OBSMini\\OBSMini\\FormSifreDegistir.cs",
+              "RelativeToolTip": "OBSMini\\FormSifreDegistir.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAADwvxMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T00:29:36.672Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormOgrenci.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\source\\repos\\OBSMini\\OBSMini\\FormOgrenci.cs",
+              "RelativeDocumentMoniker": "OBSMini\\FormOgrenci.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\source\\repos\\OBSMini\\OBSMini\\FormOgrenci.cs [Design]",
+              "RelativeToolTip": "OBSMini\\FormOgrenci.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T22:29:29.4Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormOgrenci.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\source\\repos\\OBSMini\\OBSMini\\FormOgrenci.cs",
+              "RelativeDocumentMoniker": "OBSMini\\FormOgrenci.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\source\\repos\\OBSMini\\OBSMini\\FormOgrenci.cs",
+              "RelativeToolTip": "OBSMini\\FormOgrenci.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAcwFYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T22:30:25.597Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormOgretmen.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\source\\repos\\OBSMini\\OBSMini\\FormOgretmen.cs",
+              "RelativeDocumentMoniker": "OBSMini\\FormOgretmen.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\source\\repos\\OBSMini\\OBSMini\\FormOgretmen.cs [Design]",
+              "RelativeToolTip": "OBSMini\\FormOgretmen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T00:49:55.631Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormOgretmen.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\source\\repos\\OBSMini\\OBSMini\\FormOgretmen.cs",
+              "RelativeDocumentMoniker": "OBSMini\\FormOgretmen.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\source\\repos\\OBSMini\\OBSMini\\FormOgretmen.cs",
+              "RelativeToolTip": "OBSMini\\FormOgretmen.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwDgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T22:32:24.698Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormDevamsizlik.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\source\\repos\\OBSMini\\OBSMini\\FormDevamsizlik.cs",
+              "RelativeDocumentMoniker": "OBSMini\\FormDevamsizlik.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\source\\repos\\OBSMini\\OBSMini\\FormDevamsizlik.cs [Design]",
+              "RelativeToolTip": "OBSMini\\FormDevamsizlik.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T00:21:38.642Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormDersProgrami.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\source\\repos\\OBSMini\\OBSMini\\FormDersProgrami.cs",
+              "RelativeDocumentMoniker": "OBSMini\\FormDersProgrami.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\source\\repos\\OBSMini\\OBSMini\\FormDersProgrami.cs",
+              "RelativeToolTip": "OBSMini\\FormDersProgrami.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T00:07:12.311Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormDersProgrami.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\source\\repos\\OBSMini\\OBSMini\\FormDersProgrami.cs",
+              "RelativeDocumentMoniker": "OBSMini\\FormDersProgrami.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\source\\repos\\OBSMini\\OBSMini\\FormDersProgrami.cs [Design]",
+              "RelativeToolTip": "OBSMini\\FormDersProgrami.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T00:06:57.081Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FormDevamsizlik.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\source\\repos\\OBSMini\\OBSMini\\FormDevamsizlik.cs",
+              "RelativeDocumentMoniker": "OBSMini\\FormDevamsizlik.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\source\\repos\\OBSMini\\OBSMini\\FormDevamsizlik.cs",
+              "RelativeToolTip": "OBSMini\\FormDevamsizlik.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T00:21:44.154Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FormNotlar.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\source\\repos\\OBSMini\\OBSMini\\FormNotlar.cs",
+              "RelativeDocumentMoniker": "OBSMini\\FormNotlar.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\source\\repos\\OBSMini\\OBSMini\\FormNotlar.cs [Design]",
+              "RelativeToolTip": "OBSMini\\FormNotlar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T23:34:21.093Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormNotlar.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\source\\repos\\OBSMini\\OBSMini\\FormNotlar.cs",
+              "RelativeDocumentMoniker": "OBSMini\\FormNotlar.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\source\\repos\\OBSMini\\OBSMini\\FormNotlar.cs",
+              "RelativeToolTip": "OBSMini\\FormNotlar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T23:34:26.107Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormNotlarOgrt.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\source\\repos\\OBSMini\\OBSMini\\FormNotlarOgrt.cs",
+              "RelativeDocumentMoniker": "OBSMini\\FormNotlarOgrt.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\source\\repos\\OBSMini\\OBSMini\\FormNotlarOgrt.cs [Design]",
+              "RelativeToolTip": "OBSMini\\FormNotlarOgrt.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T23:39:19.083Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormNotlarOgrt.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\source\\repos\\OBSMini\\OBSMini\\FormNotlarOgrt.cs",
+              "RelativeDocumentMoniker": "OBSMini\\FormNotlarOgrt.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\source\\repos\\OBSMini\\OBSMini\\FormNotlarOgrt.cs",
+              "RelativeToolTip": "OBSMini\\FormNotlarOgrt.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAkwLoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T23:39:23.334Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormDevamOgrt.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\source\\repos\\OBSMini\\OBSMini\\FormDevamOgrt.cs",
+              "RelativeDocumentMoniker": "OBSMini\\FormDevamOgrt.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\source\\repos\\OBSMini\\OBSMini\\FormDevamOgrt.cs [Design]",
+              "RelativeToolTip": "OBSMini\\FormDevamOgrt.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T01:03:12.08Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormDevamOgrt.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\source\\repos\\OBSMini\\OBSMini\\FormDevamOgrt.cs",
+              "RelativeDocumentMoniker": "OBSMini\\FormDevamOgrt.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\source\\repos\\OBSMini\\OBSMini\\FormDevamOgrt.cs",
+              "RelativeToolTip": "OBSMini\\FormDevamOgrt.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAowF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T01:03:17.152Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VeritabaniIslemleri.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\source\\repos\\OBSMini\\OBSMini\\VeritabaniIslemleri.cs",
+              "RelativeDocumentMoniker": "OBSMini\\VeritabaniIslemleri.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\source\\repos\\OBSMini\\OBSMini\\VeritabaniIslemleri.cs",
+              "RelativeToolTip": "OBSMini\\VeritabaniIslemleri.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAqwBsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T22:36:42.023Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
